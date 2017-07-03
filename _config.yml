@@ -26,10 +26,11 @@ github: kndtran
 twitter: kndtran
 #tel: +44 0000 000000
 #tel_full: tel:+440000000000
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-#address: 44 Perth Street
-#postcode: EH3 5BL
-city: Melbourne
+google_maps: 'https://www.google.com.au/maps/place/IBM+Australia+Tower/'
+address: 60 City Road
+city: Southbank
+state: Victoria
+postcode: 3006
 country: Australia
 #google_analytics: UA-69300817-1
 
