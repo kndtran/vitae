@@ -33,7 +33,7 @@ city: Southbank
 state: Victoria
 postcode: 3006
 country: Australia
-#google_analytics: UA-69300817-1
+google_analytics: UA-102066943-2
 
 # needed for travis-ci build
 exclude: [vendor]
